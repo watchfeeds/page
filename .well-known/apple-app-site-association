@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "RB73R3H3RF.com.kevinguan.watch-feeds", "RB73R3H3RF.com.kevinguan.watch-feeds4" ],
+             "components": [
+               {
+                  "/": "/oauth/*",
+                  "comment": "Matches any URL whose path starts with /oauth/"
+               }
+             ]
+           }
+       ]
+   }
+}
