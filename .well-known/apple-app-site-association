@@ -11,5 +11,11 @@
              ]
            }
        ]
+   },
+   "webcredentials": {
+      "apps": []
+   },
+   "appclips": {
+      "apps": []
    }
 }
