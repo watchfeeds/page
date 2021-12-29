@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "RB73R3H3RF.com.kevinguan.watch-feeds", "RB73R3H3RF.com.kevinguan.watch-feeds4" ],
+             "appIDs": [ "RB73R3H3RF.com.kevinguan.Watch-Feeds", "RB73R3H3RF.com.kevinguan.Watch-Feeds4" ],
              "components": [
                {
                   "/": "/oauth/*",
